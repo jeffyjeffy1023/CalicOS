@@ -1,6 +1,6 @@
 # CalicOS
 
-## What the hell is 1.6-rebuild?
+## What the hell is "CalicOS"? What?
 CalicOS ("Cal-ick-O-S" and "Calico OS" are both valid pronounciations, I don't care) is a fork of [1.6-rebuild](https://github.com/Victor-Rebuild/victor-1.6-rebuild/) intended for my personal use, though others are free to give it a spin as well. Things will probably be shittier than other CFWs here, unfortunately, but this is more of a haha funny experiment and personal side thing than a serious attempt at making a new CFW for Vector as a whole.
 
 ## Uhhh.. Alright, kinda lame, but what've you changed?
