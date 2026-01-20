@@ -1,15 +1,17 @@
-# victor-1.6-rebuild
+# CalicOS
 
-Welcome to `victor-1.6-rebuild`. This is where my modifed 1.6 source for Vector lives
+Welcome to `CalicOS`, my fork of 1.6-rebuild for Vector, because I liked it a lot but want to try adding some extras myself.
+This is a slow, slow work in progress, as well as my first proper github fork. Don't expect frequent updates, this is mainly intended for my own, personal Vectors (and any I may customize and give to people close to me). If you install this on your own bot and something breaks, don't be afraid to tell me, but also don't expect me to be able to fix it. You'll be better off using a different CFW if you want more guaranteed stability, things WILL get experimental here.
 
-## Changes from regular 1.6
+## Changes from 1.6-rebuild
 
-You can see all the changes made compared to normal 1.6 in [CHANGES.md](/CHANGES.md)
+You can see all the additions and changes I've made compared to 1.6-rebuild in [CHANGES.md](/CHANGES.md)
 
 ## Installation
 Check here for info [ABOUT.md](/ABOUT.md)
 
 ## Building (Linux)
+Should work just the same as 1.6-rebuild.
 
  - Prereqs: Make sure you have `docker` installed.
 
@@ -40,6 +42,7 @@ cd ~/victor-1.6-rebuild
 3. It should just work! The output will be in `./_build/vicos/Release/`
 
 ## Building (Intel macOS)
+Should still work just the same as 1.6-rebuild.
 
  - Prereqs: Make sure you have [brew](https://brew.sh/) installed.
    -  Then: `brew install pyenv ccache wget`
@@ -104,4 +107,4 @@ echo 192.168.1.150 > robot_ip.txt
 ./wire/deploy.sh
 ```
 
-<small><sub><sup>DDL, if you're reading this, sosumi.</sup></sub></small>
+<small><sub><sup>DDL, if you're reading this, go buy a car from Big Bill Hell's.</sup></sub></small>
